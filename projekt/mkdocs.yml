@@ -4,5 +4,6 @@ nav:
   - Wprowadzenie: wprowadzenie.md
   - Rodzaje kawy: rodzaje.md
   - Dodatki: zczympodac.md
+  - Sposoby parzenia: sposoby.md
 theme:
   name: bootstrap386
