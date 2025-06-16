@@ -1,10 +1,10 @@
-# Rodzaje Kawy
+# Rodzaje
 
 Poniżej rozpisane masz pięć ulubionych kaw szefa. Dlaczego pięć? Bo każda na inny dzień tygodnia, dostosowana specjalnie, do nawyków twojego szefa. Jeżeli podasz złą kawę w konkretny dzień... W dużym skrócie będziesz wąchał kwiatki od spodu.
 
 ---
 
-## 1. Poniedziałek - Espresso
+## 1. Espresso
 
 **Opis:**  
 
@@ -15,7 +15,7 @@ Zmiel świeżą kawę drobno, wsyp do kolby ekspresu ciśnieniowego, zaparz pod 
 
 ---
 
-## 2. Wtorek - Cappuccino
+## 2. Cappuccino
 
 **Opis:**  
 Klasyczne połączenie espresso, gorącego i spienionego mleka w równych proporcjach. 3 składniki tworzące Trójcę Świętą. Zapomnisz o którymś - możesz się pożegnać z robotą. Proporcję są tu też istotne, dasz czegoś za dużo lub za mało, możesz zapomnieć o podwyżce na najbliższe pół roku.
@@ -25,7 +25,7 @@ Zaparz espresso, następnie spień mleko do uzyskania gęstej, aksamitnej pianki
 
 ---
 
-## 3. Środa - Latte (Caffè Latte)
+## 3. Caffè Latte
 
 **Opis:**  
 Łagodna kawa mleczna oparta na espresso, z dużą ilością mleka i cienką warstwą mlecznej pianki. Środek tygodnia dlatego też twój szef już ma trochę za sobą, taki napój pozwoli mu się uspokoić, a Tobie może uda się przetrwać jakoś do piątku.
@@ -38,7 +38,7 @@ Zaparz espresso. Spień mleko (delikatnie, z cienką pianką). Wlej mleko do fil
 
 ---
 
-## 4. Czwartek - Americano
+## 4. Americano
 
 **Opis:**  
 Espresso w wersji mniej pobudzającej - kofeina wchłania się wolniej. Z tą kawą jednak ostrożnie - wielu koneserów do Americano ma kpiące podejście. Warto na tym etapie przeprowadzić test psychologiczny - jeśli szef jeździ na wakacje w stylu Dubaj, Singapur, Stany - zapewne polubi Americano. Jeśli jednakże gustuje w kierunkach bardziej klasycznych jak Alpy czy Włochy - absolutnie nie ryzykuj!
@@ -47,7 +47,7 @@ Zaparz espresso, następnie dolej gorącą wodę (ok. 90°C), w proporcji 1:2 lu
 
 ---
 
-## 5. Piątek - Mocha (Caffè Mocha)
+## 5. Caffè Mocha
 
 **Opis:**  
 Ta opcja jest idealna jeżeli masz szefową, a nie szefa. Delikatna, kobieca i dostojna kompozycja wprowadzi uśmiech na twarz przełożonego płci pieknej.

@@ -1,4 +1,4 @@
-# Z czym podawać kawę **Szefowi**?
+# Z czym podawać?
 
 Kawa to jedno, jednak podanie kawy z odpowiednim przysmakiem, to jest sztuka. Szef ma swoje ulubione słodycze, ma też takie, które nie przejdą mu przez gardło. Oto rozpiska rzeczy w naszym firmowym barku wraz z opisanymi upodobaniami szefa
 

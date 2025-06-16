@@ -1,10 +1,10 @@
-# Sposoby parzenia kawy
+# Sposoby parzenia
 
 Poznaj trzy popularne metody parzenia kawy w miejscu pracy
 
 ---
 
-## 1. Kawiarka (Moka)
+## 1. Kawiarka
 
 **Opis:**  
 Włoskie urządzenie ciśnieniowe do parzenia kawy na kuchence. Najbardziej klasyczna metoda, choć
@@ -38,7 +38,7 @@ Szklany dzbanek z tłokiem – parzy kawę przez zalanie wrzątkiem i oddzieleni
 
 ---
 
-## 3. Ekspres ciśnieniowy
+## 3. Ekspres
 
 *Opis:*  
 Automatyczny lub półautomatyczny sprzęt do szybkiego przygotowania espresso. Opcja najbardziej wydajna i najczęściej spotykana w miejscach pracy. Jeżeli szef raczej nie wymaga od ciebie rozwiązań klasycznych to nie ma co się męczyć - po prostu zrób mu kawkę z ekspresu.

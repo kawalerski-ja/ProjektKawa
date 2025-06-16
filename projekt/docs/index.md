@@ -1,4 +1,4 @@
-# Witamy w instrukcji "Kawa dla szefa"
+# Witamy
 
 To jest oficjalna instrukcja dla pracowników jak robić najlepszą **kawę dla szefa!**.
 
@@ -17,7 +17,7 @@ To jest oficjalna instrukcja dla pracowników jak robić najlepszą **kawę dla 
 - zapewnia pracownikowi cenne umiejętności,
 - kawa jest świetna.
 
-## Szczególy projektu
+## Szczególy
 
 - Autorzy: Jan Kawalerski, Paweł Szulik I rok IiE WZ AGH
 - Kawa: tylko najlepsza
