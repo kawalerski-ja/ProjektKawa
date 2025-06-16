@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Witamy w instrukcji "Kawa dla szefa"
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To jest oficjalna instrukcja dla pracowników jak robić najlepszą **kawę dla szefa!**.
 
-## Commands
+## Spis treści
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Wprowadzenie](wprowadzenie.md)
+- [Rodzaje kawy](rodzaje.md)
 
-## Project layout
+## O projekcie
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Kawa dla szefa** to kurs i instrukcja w jednym!
+
+- upraszcza codzienną pracę - szef po wypiciu kawy będzie milszy,
+- zapewnia pracownikowi cenne umiejętności,
+- kawa jest świetna.
+
+## Szczególy projektu
+
+- Autorzy: Jan Kawalerski, Paweł Szulik I rok IiE WZ AGH
+- Kawa: tylko najlepsza
+- Uśmiech szefa: gwarantowany
+
+---
