@@ -22,5 +22,6 @@ Delikatne i lekko kwaskowe, dobrze kontrastują z mocną kawą jak espresso lub 
 ## 4. Ciastka maślane
 Kruche, lekkie i maślane – świetnie pasują do każdego rodzaju kawy, szczególnie do flat white lub cappuccino. Tak na dobrą sprawę, są to ciastka nijakie. Podasz je, to tak jakbyś ich nie podał, ale jednak coś podałeś. Szef jest na nie obojętny. Zje je, bo przecież nie mogą się zmarnować. Na żadną wartość dodaną dla siebie jednak tutaj nie licz. Lecz jak to powiedzenie mówi, lepszy rydz, niż nic.
 
-
+## 5. Domowe ciastko
+To już broń ostateczna, gdy jest serio źle. Nic tak nie udobrucha szefa jak ręcznie zrobione domowe ciasto, w które (miejmy nadzieję) włożyłeś serce. Galaretka, sernik może tort? To już zależy wyłącznie od ciebie i twojej znajomości szefa.
 
