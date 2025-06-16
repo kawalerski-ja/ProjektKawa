@@ -3,5 +3,6 @@ nav:
   - Start: index.md
   - Wprowadzenie: wprowadzenie.md
   - Rodzaje kawy: rodzaje.md
+  - Dodatki: zczympodac.md
 theme:
   name: bootstrap386
