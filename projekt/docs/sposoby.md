@@ -38,5 +38,18 @@ Szklany dzbanek z tłokiem – parzy kawę przez zalanie wrzątkiem i oddzieleni
 
 ---
 
+## 3. Ekspres ciśnieniowy
 
+*Opis:*  
+Automatyczny lub półautomatyczny sprzęt do szybkiego przygotowania espresso. Opcja najbardziej wydajna i najczęściej spotykana w miejscach pracy. Jeżeli szef raczej nie wymaga od ciebie rozwiązań klasycznych to nie ma co się męczyć - po prostu zrób mu kawkę z ekspresu.
+
+*Zalety:*
+- szybkość,
+- powtarzalność,
+- możliwość spieniania mleka.
+
+*Wskazówki:*
+- Używaj świeżej kawy,
+- czyść regularnie dyszę i grupę,
+- dbaj o odpowiednią temperaturę.
 
