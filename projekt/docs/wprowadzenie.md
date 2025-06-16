@@ -7,4 +7,11 @@ być niespecjalnie szczęśliwy. Zignorowaliśmy jednak ten fakt. To był błąd
 ##Zmotywowani do walki
 Kierowani poczuciem empatii postanowiliśmy utworzyć tą instrukcję-kurs dla parcowników by ci zawsze mogli zapewnić przełożonemu najlepsze doznania z kofeiną.
 
+##Szef
+Final boss
+![Szefu](szef.jpg)
+
+##Kawa
+Twój cel
 ![Kawka](coffe.jpg)
+
