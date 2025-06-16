@@ -41,16 +41,16 @@ Zaparz espresso. Spień mleko (delikatnie, z cienką pianką). Wlej mleko do fil
 ## 4. Czwartek - Americano
 
 **Opis:**  
-
+Espresso w wersji mniej pobudzającej - kofeina wchłania się wolniej. Z tą kawą jednak ostrożnie - wielu koneserów do Americano ma kpiące podejście. Warto na tym etapie przeprowadzić test psychologiczny - jeśli szef jeździ na wakacje w stylu Dubaj, Singapur, Stany - zapewne polubi Americano. Jeśli jednakże gustuje w kierunkach bardziej klasycznych jak Alpy czy Włochy - absolutnie nie ryzykuj!
 **Sposób przygotowania:**
-
+Zaparz espresso, następnie dolej gorącą wodę (ok. 90°C), w proporcji 1:2 lub 1:3. Wodę dodawaj po espresso, aby zachować warstwowanie smaku.
 
 ---
 
 ## 5. Piątek - Mocha (Caffè Mocha)
 
 **Opis:**  
-
+Ta opcja jest idealna jeżeli masz szefową, a nie szefa. Delikatna, kobieca i dostojna kompozycja wprowadzi uśmiech na twarz przełożonego płci pieknej.
 **Sposób przygotowania:**
-
+Do filiżanki dodaj czekoladę (syrop lub rozpuszczoną), zaparz espresso bezpośrednio na nią. Dodaj gorące mleko i lekko spień. Opcjonalnie udekoruj bitą śmietaną.
 ---
