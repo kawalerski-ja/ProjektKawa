@@ -7,6 +7,8 @@ To jest oficjalna instrukcja dla pracowników jak robić najlepszą **kawę dla 
 - [Wprowadzenie](wprowadzenie.md)
 - [Rodzaje kawy](rodzaje.md)
 - [Dodatki do kawy](zczympodac.md)
+- [Sposoby przygotowania kawy](sposoby.md)
+
 ## O projekcie
 
 **Kawa dla szefa** to kurs i instrukcja w jednym!
